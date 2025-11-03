@@ -1,0 +1,52 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 1.667,
+		"Fps": 60.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 2,
+		"TotalSegmentCount": 4,
+		"TotalPointCount": 10,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "biaoqing6",
+			"Segments": [
+				0,
+				-1,
+				1,
+				0.278,
+				-1,
+				0.556,
+				1,
+				0.833,
+				1,
+				0,
+				1.667,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "biaoqing1",
+			"Segments": [
+				0,
+				-1,
+				1,
+				0.278,
+				-1,
+				0.556,
+				1,
+				0.833,
+				1,
+				0,
+				1.667,
+				1
+			]
+		}
+	]
+}

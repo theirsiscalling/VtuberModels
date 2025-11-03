@@ -1,0 +1,41 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 1.67,
+		"Fps": 60.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 2,
+		"TotalSegmentCount": 3,
+		"TotalPointCount": 5,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "Param6",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.667,
+				0
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part10",
+			"Segments": [
+				0,
+				1,
+				2,
+				0.08,
+				0,
+				0,
+				1.67,
+				0
+			]
+		}
+	]
+}

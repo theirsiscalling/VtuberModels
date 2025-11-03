@@ -1,0 +1,253 @@
+{
+  "Version": 3,
+  "Type": 0,
+  "FileReferences": {
+    "Moc": "虚拟人物 - 副本.moc3",
+    "Textures": [
+      "虚拟人物 - 副本.8192/texture_00.png"
+    ],
+    "Physics": "虚拟人物 - 副本.physics3.json",
+    "PhysicsV2": {
+      "File": "虚拟人物 - 副本.physics3.json",
+      "MaxWeight": 0.999
+    },
+    "Motions": {
+      "YiFu": [
+        {
+          "File": "外衣关闭.motion3.json"
+        },
+        {
+          "File": "外衣启用.motion3.json"
+        }
+      ],
+      "LuoTi": [
+        {
+          "File": "裸体R18启用.motion3.json"
+        },
+        {
+          "File": "裸体R18关闭.motion3.json"
+        }
+      ],
+      "Jb2": [
+        {
+          "File": "JB XianShi.motion3.json"
+        }
+      ],
+      "jb1": [
+        {
+          "File": "JB XiaoShi.motion3.json"
+        }
+      ],
+      "丝袜": [
+        {
+          "File": "腿-白丝启用.motion3.json"
+        },
+        {
+          "File": "腿-黑丝启用.motion3.json"
+        },
+        {
+          "File": "腿-光腿启用.motion3.json"
+        }
+      ],
+      "表情眼睛": [
+        {
+          "File": "表情眼睛-星星眼.motion3.json"
+        },
+        {
+          "File": "表情眼睛-白眼睛.motion3.json"
+        },
+        {
+          "File": "表情眼睛-紧绷.motion3.json"
+        },
+        {
+          "File": "表情眼睛-豆豆眼.motion3.json"
+        },
+        {
+          "File": "表情眼睛-闭眼.motion3.json"
+        },
+        {
+          "File": "表情眼睛-恢复默认.motion3.json"
+        }
+      ],
+      "表情嘴": [
+        {
+          "File": "表情嘴-^.motion3.json"
+        },
+        {
+          "File": "表情嘴-惊讶.motion3.json"
+        },
+        {
+          "File": "表情嘴-恢复默认.motion3.json"
+        }
+      ],
+      "猫猫": [
+        {
+          "File": "MaoMao XianShi.motion3.json"
+        },
+        {
+          "File": "MaoMao XiaoShi.motion3.json"
+        }
+      ],
+      "jb2": [
+        {
+          "File": "MaoMao XiaoShi.motion3.json"
+        }
+      ],
+      "手抬起": [
+        {
+          "File": "手抬起-外衣启用时.motion3.json"
+        },
+        {
+          "File": "手放下-外衣启用时.motion3.json"
+        }
+      ],
+      "weiba": [
+        {
+          "File": "尾巴上竖.motion3.json"
+        },
+        {
+          "File": "尾巴下竖.motion3.json"
+        }
+      ],
+      "toufa": [
+        {
+          "File": "头发-粉色双马尾-启用.motion3.json"
+        },
+        {
+          "File": "头发-蓝色长发-启用.motion3.json"
+        }
+      ]
+    }
+  },
+  "Controllers": {
+    "ParamHit": {},
+    "ParamLoop": {},
+    "KeyTrigger": {
+      "Items": [
+        {
+          "Input": 97,
+          "DownMtn": "YiFu"
+        },
+        {
+          "Input": 98,
+          "DownMtn": "丝袜"
+        },
+        {
+          "Input": 100,
+          "DownMtn": "表情眼睛"
+        },
+        {
+          "Input": 101,
+          "DownMtn": "表情嘴"
+        },
+        {
+          "Input": 99,
+          "DownMtn": "猫猫"
+        },
+        {
+          "Input": 103,
+          "DownMtn": "jb2"
+        },
+        {
+          "Input": 105,
+          "DownMtn": "手抬起"
+        },
+        {
+          "Input": 104,
+          "DownMtn": "weiba"
+        },
+        {
+          "Input": 102,
+          "DownMtn": "toufa"
+        }
+      ],
+      "Enabled": true
+    },
+    "ParamTrigger": {},
+    "AreaTrigger": {},
+    "HandTrigger": {},
+    "EyeBlink": {
+      "MinInterval": 500,
+      "MaxInterval": 6000,
+      "Enabled": true
+    },
+    "LipSync": {
+      "Gain": 5.0,
+      "Enabled": true
+    },
+    "MouseTracking": {
+      "SmoothTime": 0.15,
+      "Enabled": true
+    },
+    "AutoBreath": {
+      "Enabled": true
+    },
+    "ExtraMotion": {
+      "Enabled": true
+    },
+    "Accelerometer": {
+      "Enabled": true
+    },
+    "Microphone": {},
+    "Transform": {},
+    "FaceTracking": {
+      "EyeWide": [
+        {
+          "Id": "zhengdayanjing",
+          "Min": -1.0,
+          "Max": 1.0,
+          "Input": 0
+        }
+      ],
+      "CheekPuff": [
+        {
+          "Id": "Param42",
+          "Min": 0.0,
+          "Max": 1.0,
+          "Input": 0
+        }
+      ],
+      "TongueOut": [
+        {
+          "Id": "Param40",
+          "Min": 0.0,
+          "Max": 1.0,
+          "Input": 0
+        }
+      ],
+      "Enabled": true
+    },
+    "HandTracking": {},
+    "ParamValue": {},
+    "PartOpacity": {},
+    "ArtmeshOpacity": {},
+    "ArtmeshColor": {},
+    "ArtmeshCulling": {
+      "DefaultMode": 0
+    },
+    "IntimacySystem": {}
+  },
+  "HitAreas": [
+    {
+      "Name": "ArtMesh39",
+      "Id": "ArtMesh39",
+      "Motion": "YiFu"
+    },
+    {
+      "Name": "ArtMesh61",
+      "Id": "ArtMesh61",
+      "Motion": "LuoTi"
+    },
+    {
+      "Name": "ArtMesh59",
+      "Id": "ArtMesh59",
+      "Motion": "Jb2"
+    },
+    {
+      "Name": "jb",
+      "Id": "jb",
+      "Motion": "jb1"
+    }
+  ],
+  "Options": {}
+}
