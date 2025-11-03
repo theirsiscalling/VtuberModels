@@ -4,7 +4,7 @@
   "FileReferences": {
     "Moc": "虚拟人物 - 副本.moc3",
     "Textures": [
-      "虚拟人物 - 副本.8192/texture_00.png"
+      "虚拟人物 - 副本.4096/texture_00.png"
     ],
     "Physics": "虚拟人物 - 副本.physics3.json",
     "PhysicsV2": {
@@ -250,4 +250,5 @@
     }
   ],
   "Options": {}
+
 }
