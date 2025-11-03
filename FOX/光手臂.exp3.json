@@ -1,0 +1,15 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "GuangShou",
+            "Value": 2.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "ShouWa",
+            "Value": -2.0,
+            "Blend": "Add"
+        }
+    ]
+}

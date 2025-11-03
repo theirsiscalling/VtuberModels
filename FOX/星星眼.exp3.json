@@ -1,0 +1,10 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "XingXing",
+            "Value": 2.0,
+            "Blend": "Add"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "NeiYi",
+            "Value": 1.5,
+            "Blend": "Add"
+        },
+        {
+            "Id": "WaiYi",
+            "Value": 2.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "ChongWu",
+            "Value": 2.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "GuangHuan",
+            "Value": 2.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "LianHong",
+            "Value": 1.8679332733154297,
+            "Blend": "Add"
+        },
+        {
+            "Id": "GuangTui",
+            "Value": 2.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "JiaSuo",
+            "Value": 2.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "GuangShou",
+            "Value": 2.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "LuoTi",
+            "Value": 2.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "WuQi",
+            "Value": 0.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "WuQiBeiHou",
+            "Value": 2.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "YanJing",
+            "Value": 2.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "ShuangMaWei",
+            "Value": 2.0,
+            "Blend": "Add"
+        }
+    ]
+}
