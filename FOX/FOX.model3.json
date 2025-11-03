@@ -3,8 +3,8 @@
 	"FileReferences": {
 		"Moc": "FOX.moc3",
 		"Textures": [
-			"FOX.8192/texture_00.png",
-			"FOX.8192/texture_01.png"
+			"FOX.4096/texture_00.png",
+			"FOX.4096/texture_01.png"
 		],
 		"Physics": "FOX.physics3.json"
 	},
